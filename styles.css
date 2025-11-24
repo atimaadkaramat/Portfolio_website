@@ -1,0 +1,27 @@
+.circular-photo {
+  border-radius: 50%;
+}
+
+footer {
+  text-align: center;
+  min-height: 50px;
+}
+
+.both_sides {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.link_decuration {
+  text-decoration: none;
+  color: white;
+}
+
+.contact-card {
+  transition: 0.3s ease;
+}
+
+.contact-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12) !important;
+}

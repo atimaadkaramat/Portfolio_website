@@ -25,3 +25,14 @@ footer {
   transform: translateY(-4px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12) !important;
 }
+
+/* Dark mode */
+.dark-mode,
+.dark-mode body,
+.dark-mode div,
+.dark-mode h1,
+.dark-mode h3,
+.dark-mode p {
+  background-color: #1e1e1e !important;
+  color: #ffffff !important ;
+}

@@ -1,0 +1,34 @@
+HTML Tags Used (10)
+1. <header>: Used for the top navigation section.
+2. <nav>: Used for the navbar to link all pages.
+3. <img>: Used to display profile images.
+4. <a>: Used for internal and external hyperlinks.
+5. <h1>: Used for main headings on pages.
+6. <h3>: Used for subheadings.
+7. <p>: Used for paragraphs.
+8. <div>: Used to structure layout and sections.
+9. <footer>: Used to display footer text.
+10. <button>: Used for the dark mode toggle.
+
+CSS Selectors Used (5)
+- .circular-photo: Class selector for rounded profile image.
+- footer: Tag selector to center footer text.
+- .both_sides: Class selector for inline-block lists.
+- .link_decuration: Class selector to remove link underline.
+- .contact-card:hover: Pseudo-class selector for hover effects.
+
+CSS Properties Used (5)
+- border-radius
+- text-align
+- display
+- color
+- background-color
+- transition
+- transform
+- box-shadow
+
+Bootstrap Usage
+I used Bootstrap’s grid system, navigation components, spacing utilities, and responsive classes to make the layout clean and mobile-friendly.
+
+JavaScript Usage
+I used JavaScript to implement a working dark mode toggle that changes the theme when the button is clicked.

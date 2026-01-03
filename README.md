@@ -16,12 +16,12 @@ This portfolio website is a static web project built using **HTML, CSS, and Java
 - Project showcase
 - Interactive elements (like the contact form)
 
-This website was completed as part of the CS50 final project requirements. :contentReference[oaicite:0]{index=0}
+This website was completed as part of the CS50 final project requirements.
 
 ## 🧩 Project Structure
 
 The main files and folders include:
-
+```text
 ├── images/ # Images used on the website
 ├── index.html # Homepage
 ├── about.html # About Me page
@@ -30,7 +30,7 @@ The main files and folders include:
 ├── script.js # JavaScript for interactive behavior
 ├── styles.css # Custom styles
 └── specification.txt # Project specification / assignment description
-
+```
 
 ## 🚀 Features
 

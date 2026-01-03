@@ -5,7 +5,7 @@ This repository contains my **Portfolio Website**, built as part of my **CS50 (I
 ## Live Demo
 
 The website can be viewed live at:  
-**(Add your GitHub Pages URL here if hosted, e.g. `https://atimaadkaramat.github.io/Portfolio_website/`)**
+**https://atimaadkaramat.github.io/Portfolio_website/**
 
 ## 📌 Overview
 
